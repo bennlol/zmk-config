@@ -88,7 +88,7 @@
         compatible = "zmk,conditional-layers";
 
         config_conditional {
-            if-layers = <4 4>;
+            if-layers = <2 3>;
             then-layer = <4>;
         };
     };
