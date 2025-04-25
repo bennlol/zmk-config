@@ -74,11 +74,11 @@
 
         navigation_layer {
             bindings = <
-&trans  &trans  &trans  &trans  &trans   &trans                         &trans    &trans     &trans     &trans     &trans  &trans
-&trans  &trans  &trans  &trans  &trans   &trans                         &trans    &trans     &kp PG_DN  &kp PG_UP  &trans  &trans
-&trans  &trans  &trans  &trans  &kp TAB  &kp LA(TAB)                    &kp HOME  &kp LEFT   &kp DOWN   &kp RIGHT  &kp UP  &kp END
-&trans  &trans  &trans  &trans  &trans   &trans       &trans    &trans  &trans    &kp RSHFT  &kp RALT   &trans     &trans  &trans
-                        &trans  &trans   &trans       &trans    &trans  &trans    &trans     &trans
+&trans  &trans        &trans     &trans        &trans   &trans                         &trans  &trans     &trans     &trans        &trans     &trans
+&trans  &trans        &trans     &trans        &trans   &trans                         &trans  &kp HOME   &kp PG_DN  &kp PG_UP     &kp END    &trans
+&trans  &kp LEFT_GUI  &kp LCTRL  &kp LEFT_ALT  &kp TAB  &kp LA(TAB)                    &trans  &kp LEFT   &kp DOWN   &kp UP_ARROW  &kp RIGHT  &trans
+&trans  &trans        &trans     &trans        &trans   &trans       &trans    &trans  &trans  &kp RSHFT  &kp RALT   &trans        &trans     &trans
+                                 &trans        &trans   &trans       &trans    &trans  &trans  &trans     &trans
             >;
         };
 
