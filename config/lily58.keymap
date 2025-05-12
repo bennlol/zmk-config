@@ -67,7 +67,7 @@
 &trans     &trans  &trans  &trans            &trans          &trans                             &trans           &trans       &trans             &trans   &trans    &trans
 &kp TAB    &kp Q   &kp D   &kp R             &kp W           &kp B                              &kp J            &kp F        &kp U              &kp P    &kp SEMI  &kp DEL
 &mo 5      &kp A   &kp S   &mt LEFT_SHIFT H  &mt LCTRL T     &kp G                              &kp Y            &mt RCTRL N  &mt RIGHT_SHIFT E  &kp O    &kp L     &kp SEMI
-&kp LCTRL  &kp Z   &kp X   &kp M             &kp C           &kp V      &trans       &to 0      &kp K            &kp L        &kp COMMA          &kp DOT  &kp FSLH  &trans
+&kp LCTRL  &kp Z   &kp X   &kp M             &kp C           &kp V      &trans       &to 0      &kp K            &kp L        &kp COMMA          &kp DOT  &kp FSLH  &kp RCTRL
                            &kp LEFT_ALT      &lt 3 LEFT_WIN  &kp SPACE  &lt 4 TAB    &kp ENTER  &lt 5 BACKSPACE  &trans       &trans
             >;
         };
