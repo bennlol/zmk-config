@@ -86,7 +86,7 @@
             bindings = <
 &trans  &trans         &trans      &trans        &trans         &trans                           &trans         &trans         &trans        &trans        &trans         &trans
 &trans  &kp GRAVE      &kp LS(LT)  &kp LS(GT)    &kp LS(DQT)    &kp SQT                          &kp LS(AMPS)   &kp LS(COLON)  &kp LBKT      &kp RBKT      &kp LS(UNDER)  &trans
-&trans  &kp LS(EXCL)   &kp MINUS   &kp LS(PLUS)  &kp EQUAL      &kp LS(POUND)                    &kp LS(PIPE)   &trans         &kp LS(LBRC)  &kp LS(RBRC)  &kp LS(QMARK)  &trans
+&trans  &kp LS(EXCL)   &kp MINUS   &kp LS(PLUS)  &kp EQUAL      &kp LS(POUND)                    &kp LS(PIPE)   &kp BACKSLASH  &kp LS(LBRC)  &kp LS(RBRC)  &kp LS(QMARK)  &trans
 &trans  &kp LS(TILDE)  &kp FSLH    &kp LS(STAR)  &kp LS(PRCNT)  &kp LS(AT)     &trans    &trans  &kp LS(CARET)  &kp LS(DLLR)   &kp LS(LPAR)  &kp LS(RPAR)  &trans         &trans
                                    &trans        &trans         &trans         &trans    &trans  &trans         &trans         &trans
             >;
